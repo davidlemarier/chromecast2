@@ -1,7 +1,7 @@
 {
   "name": "chromecast51",
   "main": "./lib/chromecast",
-  "version": "0.0.49",
+  "version": "0.1.0",
   "private": true,
   "description": "Popcorntime.io Plugin Sample using YTS API source",
   "activationEvents": [],
