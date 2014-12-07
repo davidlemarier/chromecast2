@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "pdk": "git+https://git.popcorntime.io/stash/scm/pt/pdk.git",
-    "chromecast-js": "*",
-    "q": "^1.1.2"
+    "chromecast-js": "*"
   }
 }
