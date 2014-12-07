@@ -13,5 +13,8 @@
   "engines": {
     "popcorntime": "*"
   },
-  "dependencies": {}
+  "dependencies": {
+      "pdk": "git+https://git.popcorntime.io/stash/scm/pt/pdk.git",
+      "chromecast-js": "*"
+  }
 }
